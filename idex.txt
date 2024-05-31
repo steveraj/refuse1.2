@@ -10,7 +10,6 @@ push
 pull
 status
 diff
+checkout -b branch
+checkout branch
 ----------->
-now i learned how to create a branch and how to switched between branches
-this change happen in frontend branch and pushed in backend branch
-this comment is backend
