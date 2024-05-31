@@ -6,8 +6,9 @@ now i understand or know
 how to use git and the git commands like
 add
 commit
-status
 push
 pull
+status
+diff
 ----------->
-difff
+
