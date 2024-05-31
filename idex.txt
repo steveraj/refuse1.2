@@ -1,3 +1,12 @@
 hello world
 this message is typed in local desk
 I'll appear if you you pull this correctly
+------------------------------------------
+now i understand or know
+how to use git and the git commands like
+add
+commit
+status
+push
+pull
+----------->
