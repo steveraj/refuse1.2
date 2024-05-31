@@ -12,4 +12,4 @@ status
 diff
 ----------->
 now i learned how to create a branch and how to switched between branches
-
+this message is typed and added and also commited in frontend branch 
