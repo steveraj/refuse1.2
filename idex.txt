@@ -10,7 +10,7 @@ push
 pull
 status
 diff
-checkout -b branch
+checkout -b branch  (-M is used to remane the branch)
 checkout branch
 stash
 upcoming topic ---->
