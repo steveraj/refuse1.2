@@ -13,3 +13,4 @@ diff
 checkout -b branch
 checkout branch
 upcoming topic ---->
+stash
