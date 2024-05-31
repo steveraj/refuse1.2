@@ -11,4 +11,5 @@ pull
 status
 diff
 ----------->
+now i learned how to create a branch and how to switched between branches
 
