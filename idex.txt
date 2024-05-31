@@ -12,5 +12,6 @@ status
 diff
 checkout -b branch
 checkout branch
+stash
 upcoming topic ---->
 stash
